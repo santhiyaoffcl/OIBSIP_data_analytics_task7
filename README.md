@@ -2,8 +2,6 @@
 # Fraud_Detection_Analysis_dashboard
 
 # Fraud Detection & Risk Analytics System - Streamlit Dashboard
-file:///C:/Users/S%20santhiya/Videos/Captures/Recording%202026-04-15%20215117.mp4
-
 
 ## Overview
 This is a complete, production-level interactive dashboard for fraud detection analytics, built with Python and Streamlit. It replaces Power BI with a web-based, interactive alternative suitable for final-year project demonstrations.
